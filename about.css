@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    width: 90%;
+    max-width: 1200px;
+    margin: 100px auto
+}
+.About-Us p{
+    color: #535353;
+   
+    line-height: 30px;
+
+}
+ h2{
+    text-align: center;
+    font-size: 3em;
+    padding-bottom: 1.5em;
+}
+.about-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about-container img{
+    width: 300px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+.about-container p{
+    padding-left: 20px;
+    text-align: center;
+    width: 50%;
+}
